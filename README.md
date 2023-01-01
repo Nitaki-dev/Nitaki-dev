@@ -26,7 +26,3 @@ Some facts about me:
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitaki-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
