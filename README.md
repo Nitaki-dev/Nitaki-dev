@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitaki-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitaki-dev&show_icons=true&theme=dracula)
 
 I'm Nitaki I like to code stuff and play games
 
