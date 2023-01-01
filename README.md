@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitaki-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Nitaki I like to code stuff and play games
 
