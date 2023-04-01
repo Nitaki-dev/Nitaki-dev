@@ -5,7 +5,7 @@ Some facts about me:
 - 🔭 I’m currently working on the Sudo client
 - 🌱 I’m currently learning Java and UE5
 - 📫 You can contact me using my discord: Nitaki#0861
-- ⚡ Fun fact: I'm a guy
+- ⚡ Fun fact: NaN
 
 <p align=center>
   <div align=center>
