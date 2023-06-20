@@ -2,10 +2,10 @@ Hi 👋
 I'm Nitaki, I code stuff and play games!
 
 Some facts about me:
-- 🔭 I’m currently working on Sudo & Safepoint+2
-- 🌱 I’m currently learning Java and UE5
-- 📫 You can contact me using my discord: Nitaki#0861
-- ⚡ Fun fact: NaN
+- 🔭 I’m currently working on .
+- 🌱 I’m currently learning .
+- 📫 You can contact me using my discord: `@nitaki.`
+- ⚡ Fun fact: .
 
 <p align=center>
   <div align=center>
