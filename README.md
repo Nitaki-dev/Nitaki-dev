@@ -2,14 +2,18 @@
 
 # My skills
 
-- HTML/CSS (proficient)
-- Python (proficient)
-- Javascript (learning)
-- Java (capable)
-- C and C++ (weak)
-  
+- **HTML**/**CSS** (proficient)
+- **Python** (proficient)
+- **Javascript** (learning)
+- **Java** (capable)
+- **C** and **C++** (weak)
+
 ---
-> You can contact me on Discord ```@nitaki.```
+
+I recently finished my [pixel sorter](https://nitaki-dev.github.io/pixel-sorter/), come check it out!
+
 ---
+
+You can contact me on Discord via ```@nitaki.```
 
 <img align="right" src="https://komarev.com/ghpvc/?username=nitaki-dev&color=ff69b4">
