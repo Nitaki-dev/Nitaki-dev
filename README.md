@@ -1,4 +1,4 @@
-![banner](text.gif)
+![banner](text2.gif)
 
 # My skills
 
