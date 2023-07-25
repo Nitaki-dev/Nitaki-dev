@@ -10,7 +10,7 @@
 
 ---
 
-I recently finished my [pixel sorter](https://nitaki-dev.github.io/pixel-sorter/), come check it out!
+#### I recently finished my [pixel sorter](https://github.com/Nitaki-dev/pixel-sorter), come check it out!
 
 ---
 
