@@ -4,9 +4,8 @@
 
 - **HTML**/**CSS** (proficient)
 - **Python** (proficient)
-- **Javascript** (learning)
-- **Java** (capable)
-- **C** and **C++** (weak)
+- **Javascript**, **C**, **Java** (moderate)
+- **C++** (weak)
 
 ---
 
