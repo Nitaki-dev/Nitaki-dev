@@ -3,8 +3,8 @@
 # My skills
 
 - **HTML**/**CSS** (proficient)
-- **Python** (proficient)
-- **Javascript**, **C**, **C++**, **Java** (moderate/learning)
+- **Python**, **C** (proficient)
+- **Javascript**, **C++**, **Java** (moderate/learning)
 
 ---
 
