@@ -2,9 +2,12 @@
 
 # My skills
 
-- **HTML**/**CSS** (proficient)
-- **Python**, **C** (proficient)
-- **Javascript**, **C++**, **Java** (moderate/learning)
+| Proficient          | Intermediate |
+|---------------------|--------------|
+| Python              | Godot        |
+| HTML/CSS/Javascript | C++          |
+| C                   | Java         |
+| Blender             | Node.js      |
 
 ---
 
