@@ -1,5 +1,11 @@
 ![banner](text2.gif)
 
+---
+
+### I am currently working on a password manager!
+
+---
+
 # My skills
 
 | Proficient          | Intermediate |
