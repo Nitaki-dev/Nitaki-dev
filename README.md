@@ -2,22 +2,18 @@
 
 ---
 
-### I am currently working on a password manager!
+### I am currently dealing with things, taking a break.
 
 ---
 
 # My skills
 
-| Proficient          | Intermediate |
-|---------------------|--------------|
-| Python              | Godot        |
-| HTML/CSS/Javascript | C++          |
-| C                   | Java         |
-| Blender             | Node.js      |
+I code in C, C#, and python.
+I also know a bit of C++, PHP and JS
 
 ---
 
-#### I recently finished my [pixel sorter](https://github.com/Nitaki-dev/pixel-sorter), come check it out!
+#### I "recently" finished my [pixel sorter](https://github.com/Nitaki-dev/pixel-sorter), come check it out!
 
 ---
 
