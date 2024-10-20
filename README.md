@@ -1,21 +1,19 @@
 ![banner](text2.gif)
 
----
-
 ### One day, I will return to you
 
----
+<br>
 
 # My skills
 
 I code in C, C#, and python.
 I also know a bit of C++, PHP and JS
 
----
+<br>
 
 #### I "recently" finished my [pixel sorter](https://github.com/Nitaki-dev/pixel-sorter), come check it out!
 
----
+<br>
 
 You can contact me on Discord via ```@nitaki.```
 
