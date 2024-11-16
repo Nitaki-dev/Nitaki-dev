@@ -4,9 +4,7 @@
 
 <br>
 
-# My skills
-
-I code in C, C#, and python.
+I code in C, C#, and Python.<br>
 I also know a bit of C++, PHP and JS
 
 <br>
